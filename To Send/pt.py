@@ -1,6 +1,3 @@
-Here's the script modified to directly output .six files to the terminal:
-
-
 #!/usr/bin/env python3
 import csv
 import random
@@ -25,7 +22,10 @@ def display_sixel(image_path):
 # Load the CSV file
 with open('PsychQuestions.csv', 'r') as file:
     reader = csv.reader(file)
-    data = list(reader)
+    # Skip header row if it exists
+    header = next(reader, None)
+    # Filter out any rows with non-numeric scores
+    data = [row for row in reader if row[2].isdigit()]
     datalength = len(data)
     print("Number of items in the list:", datalength)
 
@@ -43,12 +43,13 @@ else:
     print('Invalid choice')
 
 while True:
-    min_score = min(int(row[2]) for row in data)
-    questions = [row for row in data if int(row[2]) == min_score]
+    # Find the minimum score in the third column
+    min_score = min(int(row[2]) for row in data if row[2].isdigit())
+    questions = [row for row in data if row[2].isdigit() and int(row[2]) == min_score]
     length = len(questions)
     row = random.choice(questions)
-    
-    # Display question and any images in it
+
+ # Display question and any images in it
     print('Question:', row[0])
     question_images = extract_image_paths(row[0])
     for img_path in question_images:
@@ -90,8 +91,3 @@ while True:
             break
         else:
             print('Invalid choice')
-
-    # Save the updated CSV file
-    with open('PsychQuestions.csv', 'w', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerows(data)
