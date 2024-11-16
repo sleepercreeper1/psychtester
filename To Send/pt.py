@@ -48,8 +48,8 @@ while True:
     questions = [row for row in data if row[2].isdigit() and int(row[2]) == min_score]
     length = len(questions)
     row = random.choice(questions)
-
- # Display question and any images in it
+    
+    # Display question and any images in it
     print('Question:', row[0])
     question_images = extract_image_paths(row[0])
     for img_path in question_images:
@@ -91,3 +91,11 @@ while True:
             break
         else:
             print('Invalid choice')
+
+    # Save the updated CSV file
+    with open('PsychQuestions.csv', 'w', newline='') as file:
+        # Write header back if it existed
+        writer = csv.writer(file)
+        if header:
+            writer.writerow(header)
+        writer.writerows(data)
