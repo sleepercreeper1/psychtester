@@ -1,0 +1,155 @@
+﻿how is the site of disconnection indicated in retrosynthesis?,"a squiggly line<br><img src=""paste-29a6a5ee82e30a005a8dc39b76723790d2a62c6d.jpg"">",0
+what are synthons?,"idealised reagents<br><img src=""paste-f7ef889c00e78a2ca6fd60d839e0c525fcb51f9e.jpg"">",0
+what are some things to consider to make a good disconnection?,"1. must correspond to known, reliable rxns<br>2. for a compound made up of two parts connected by a heteroatom, disconnect next to the heteroatom<br>3. disconnect the most reactive groups first to avoid chemoselectivity issues in fwd direction",0
+which end of an epoxide will a nucleophile attack?,"the&nbsp;<b>less hindered</b>&nbsp;side<br><img src=""paste-2abea0d6507a86e50501924d76738b0ef091b362.jpg"">",0
+"what is the reagent equivalent of this molecule&nbsp;<img src=""paste-3a30294c4eed2ef80b04140f54eb7b5ea282ed5c.jpg"">?","<img src=""paste-f749250c88d632a5c1c912d0144e9b25a157b2d9.jpg"">",0
+"draw the mechanism for this rxn (in the presence of LDA lithium diisopropylamide base)<br><img src=""paste-a33667a075f5e5d6736ec9f78857db6d9f278915.jpg"">","<img src=""paste-22b9c66139c83edff204e319a2fb27a91d8106f4.jpg"">",0
+"how can you achieve this synthon&nbsp;<img src=""paste-365ef738a6e4d348b310c9970563266f5225eb4a.jpg"">?&nbsp;","<img src=""paste-c2401f0e11e039b7fbae15e5a4dceef6091f7f29.jpg""><br>removal via HgCl2 (sulfur reacts well with Hg)",0
+what is the difference between rxn selectivity and specificity?,<b>selectivity</b>&nbsp;--&gt; 2 or more possible outcomes but only one is favoured<br><b>specificity</b>&nbsp;--&gt; only one outcome is mechanistically plausible. reagent stereochemistry is usually responsible for stereochemistry.&nbsp;,0
+"what is the difference between chemo, regio and stereo selectivity/specificity?","<b>&nbsp;chemo</b>&nbsp;= relates to one FG over another<br><b>regio</b>&nbsp;= relates to the formation of one consititutional isomer or the location of the rxn in a molecule<br><b>stereo</b>&nbsp;= broadly relates to formation of one isomer over another (enantio-, diastereo-)",0
+what is an ylide?,molecule that has a +ve and -ve charge adjacent,0
+how does ylide stability effect alkene diastereomer formation?,stabilised ylide = E/trans alkene<br>unstabilised ylide = Z/cis alkene,0
+draw the rxn of how an ylide is formed from an aryl halide and triphenyl phosphine,"<img src=""paste-e6b0070d64e46197a2ac526abc7b3911783f4fa0.jpg"">",0
+what makes an ylide a stabilised ylide? and what conditions are required for an unstabilised?,"if there is a group that is capable of stabilising the -ve charge via resonance (ester, ketone, nitrile etc), then the reagent is called a stabilised ylide.<br>stabilised are less reactive than unstabilised (resistant to air, water and are commercially avaiable).<br>bc ylide contains a carbanion (v reactive nuc) if unstabilised must be carried out under anaerobic and anhydrous conditions",0
+cis oxaphosphetanes give _ isomers<br>trans oxaphosphetanes give _ isomers,"<img src=""paste-7092302c3f9825a157da5844c1684b4aa01127f6.jpg"">",0
+describe the process of general Peterson olefination and its selectivity,⍺-silyl carbanions add to aldehydes and ketones<br>base catalysed produces (E) isomer via an oxasiletanide intermediate<br>&nbsp;acid catalysed produces (Z) isomer via an E2 mechanism,0
+"describe how (E) isomers are produced using Peterson olefination<br><img src=""paste-2aaa3775e944fbd805462ffa55509d3efd9a1f1f.jpg"">","base catalysed<br><img src=""paste-1891a76363b11ae550b3b85e59cee0659ab8e3d8.jpg"">",0
+"describe how (Z) isomers are produced using Peterson olefination<br><img src=""paste-2aaa3775e944fbd805462ffa55509d3efd9a1f1f.jpg"">","acid catalysed eg H2SO4<br><img src=""paste-7f4080ef0d08e85e3b9f0ca640e7df9318c1c054.jpg""><br>E2 mechanism",0
+how can m-CPBA react with an olefin to produce an epoxide? draw the mechanism,"<img src=""paste-488dec33870cf31240a0d9defdb7e1487721188a.jpg""><br>",0
+describe how dioxirane can be synthesised and draw the mechanism by which it reacts with an olefin to produce an epoxide,"<img src=""paste-2fe7127a3c2f025e0c2fdb5bd6cfe76858cca040.jpg""><br>DMDO (species in 3rd step) can be easily made with acetone. mech is catalytic in acetone<br><img src=""paste-dc5931870d15ebe18ea9715e19724b9bda2a17bb.jpg"">",0
+describe the selectivity of epoxidations by peracids or dioxirane,"<img src=""paste-fc9afd512edc69fba0e5c7a9441c6ba9f09632e0.jpg"">",0
+what is the catalyst used to perform enantioselective epoxidations and how is it synthesised,"shi epoxidation catalyst<br>synthesised from d fructose + acetone then some oxidations<br><img src=""paste-7ea98359f2e0f5ecbb7110e395324fe893b75f7b.jpg"">",0
+describe how the catalyst used in enantioselective epoxidations produces its selectivity. draw it out,"<img src=""paste-0ac3c0f7ddb544e3c3ba20d6010a22ad7bf41c93.jpg"">",0
+describe the general mechanism by which epoxide rings are opened,"SN2 at the&nbsp;<b>less hindered carbon</b>&nbsp;--&gt; inversion of stereochemistry<br><img src=""paste-b3a0534750138aab16a494f04716f24279ed9cfb.jpg"">",0
+how can you control the enantioselectivity of dihydroxylation of an epoxide to form a diol,"<img src=""paste-25b45e7d928c27bb7d73e01ee88bc06f44edde85.jpg"">",0
+what catalyst is used in the non-enatioselective dihydroxylation of olefins? draw the mechanism,"<img src=""paste-8ee6a8fd0ec628185b5accb1e0fd4e8a1d4f806f.jpg"">",0
+"describe how AD-mix ⍺ and AD-mix β will selectivity dihydroxylate this alkene:<br><img src=""paste-315da93b097b6373104023ffc045d7439a0bde40.jpg"">","note this only applies for alkenes that fit the mnemoic above<br><img src=""paste-8ac5139896144c7b71b3ae44ba796e6e88122482.jpg"">",0
+"describe why borane allows anti-markovnikov hydroxylation of an alkene<br><img src=""paste-41479965b6303dc8568966bda06738f581c785a1.jpg""><br>draw it out","borane = BH3<br><img src=""paste-bb01eeec94fbc3b6b8b42a396bc2a9923fd45945.jpg"">e.g.&nbsp;<img src=""paste-be101ef00d5c3dd0e8bde52fa110aac6f4f30c55.jpg""><br><img src=""paste-6b918fe7f35558b502aba6b0c36abca0cd049068.jpg"">&lt;-- this process repeats twice more to give BR3<br>then using hydrogen peroxide as an oxidant:<br><img src=""paste-67aa904767b0a11c1384f0a905b763677a379ead.jpg"">",0
+what are the four many ways of synthesising organometallics? draw the mechanism for each,"<img src=""paste-f894979fc7673786ad1333045e85732b3c94a1ec.jpg""><br>1.&nbsp;<img src=""paste-6cf18ea9ada19afec649bb87732f119bc0390a33.jpg""><br>2.&nbsp;<img src=""paste-91920ae1330186503883aba25f10b9b62db5f57f.jpg"">&nbsp;OMe is directing group<br>3.&nbsp;<img src=""paste-31f23d10325b00892e63560f8f93ff31346d82a9.jpg""><br>4.&nbsp;<img src=""paste-52670555b1a0468546738bc6baabc9c9f9c15503.jpg"">",0
+"what is the difference between 1,2 and 1,4 addition","⍺β unsaturated ketone is its own functional group<br>so 1 = O of carbonyl, 2 = C of carbonyl, 3 = ⍺ Carbon (double bond starts here), 4 = β carbon (doubke bond ends here)<br>so 1,2 addition means C=O breaks and Nu gets added to carbon 2. 1,4 means C=O breaks (then reforms) and Nu gets added at carbon 4<br>e.g.<br><img alt=""Conjugate Addition (1,4- or Michael Addition) — Making Molecules"" src=""Carbonyl_structure.png"">",0
+"describe the mechanism and regioselectivity of 1,2 addition in 5 membered rings","<img src=""paste-ef0e684dddbea0d97a8ae14c7c1b416d92dd9946.jpg"">",0
+"describe the mechanism and regioselectivity of 1,4 addition in 5 membered rings","<img src=""paste-0d658d8969d9bcae21dc280ad3a78466624f3aea.jpg"">",0
+"describe the mechanism and regioselectivity of 1,2 addition in 6 membered rings","<img src=""paste-0c299e6a3e5c7abcfc832288bcd48f83995c70f6.jpg"">",0
+"describe the mechanism and regioselectivity of 1,4 addition in 6 membered rings","<img src=""paste-31a3e23ffb698221689806fb068637f32fe26e57.jpg""><br><img src=""paste-10519a090c7892e71d486e384d4fd7e3e040296f.jpg"">",0
+"can 1,2 addition reactions onyl occur with a ⍺β unsaturated ketone? what about 1,4 additions?","1,2 can occur in systems w/o an ⍺β unsaturated ketone because it only needs the carbonyl<br>1,4 can only occur in systems w an ⍺β unsaturated ketone because it needs the carbonyl AND the C=C to add the nucleophile",0
+describe the Felkin-Anh model and the steps used to determine the diastereoselectivity of carbonyl addition rxns,"<img src=""paste-ee92ec1b0759495decbe443c9965f7f816041b53.jpg"">",0
+"describe how the size of R' influences the enolate diastereomer attained (hint LDA, cyclic transition state)<br><img src=""paste-cb06cda4ed94d34850f86c116fc315a27b062097.jpg"">","<img src=""paste-131429944d85591def7ea91737bad12570ee33fd.jpg""><br>NB:&nbsp;<img src=""paste-aef9cadc3a3d8c1f308a38310f492cc02f0db0d6.jpg"">",0
+describe and draw the Zimmerman-Traxler transition state for aldol formation&nbsp;,"<img src=""paste-b062bf87ea9b3f3f7df205497455b04936d7e0ca.jpg"">",0
+draw the two ways&nbsp;a (Z)-enolate + aldehyde --&gt; aldol (incl transition states) and rationalise why the ____ diastereomer is favoured over the ____,"<img src=""paste-3e5c795f69d17d2c3717261e2c75df7f8ddbf0e9.jpg""><br>X = Bn or T-BuOTMS (bulky group)",0
+draw the two ways&nbsp;a (E)-enolate + aldehyde --&gt; aldol (incl transition states) and rationalise why the ____ diastereomer is favoured over the ____,"<img src=""paste-c7c12db136127574e9f793fe1260694d8d51920e.jpg""><br>X = Bn or T-BuOTMS (bulky group)",0
+what reagent is used to make aldol formation an enantioselective process? how does it afford this? how is the reagent synthesised?,"""oxazolinone based chiral auzillaries""<br><img src=""paste-5315598d6ae27305c9ebcdb0563d12670ccdc92b.jpg""><br><img src=""paste-48905ac47974bc421e8fac7fa0d1b83540f24c55.jpg""><br><img src=""paste-9b8802d78fa1444d33d80fce822fa21b054e6765.jpg"">",0
+describe the organocatalyst used in industry to form aldols and draw the mechanism,"<img src=""paste-82f2e81f4ce8b46a3da5ecdffed7ea4d38798c98.jpg"">",0
+suggests protecting groups you can use to protect a carboxylic acid. identify reagents used to attach them and cleave them,"<img src=""paste-8c8744bcc817fedf9cba30efd2fbbfdab8bf04c4.jpg"">",0
+suggests protecting groups you can use to protect a amines. identify reagents used to attach them and cleave them,"<img src=""paste-49e149ed5beb320ec91d15ba8e8e0f4ed33eb920.jpg""><br>addition species for first is called a dicarbonate",0
+suggests protecting groups you can use to protect alcohols. identify reagents used to attach them and cleave them. draw the curly arrows where applicable [hint: theres 4],"use esters:&nbsp;<img src=""paste-89bc328cf9419d315626146b1184687aae247db0.jpg""><br>use ethers:&nbsp;<img src=""paste-12d889e320a6c67e2408e3255c141eb98bce7096.jpg""><br>use silyl ethers:<img src=""paste-617d92823ab66070185cf54ef8ee822807572b73.jpg""><br>use acetals:&nbsp;<img src=""paste-b8fe8a4a509f8c4a4323dc48cc4380fd94dd388b.jpg"">",0
+suggests protecting groups you can use to protect diols. identify reagents used to attach them and cleave them. draw the curly arrows where applicable,"<img src=""paste-a6777690f04b16dd9b627b27f73c3a4894b55410.jpg"">",0
+"name these alicyclic heterocycles<br><img src=""paste-71363d5892c6e40aaa5213ce427b3087956d8a65.jpg""><img src=""paste-81101a73ed74cef0c76934caa14c5051765dbf92.jpg"">",1. pyrrolidine<br>2. piperidine<br>3. THF<br>4. dioxan,0
+"name these heterocycles<br><img src=""paste-3f62790f2a66fdc1a800d07b8e6f69dcd4fb6c89.jpg"">",1. pyridine<br>2. pyrimidine<br>3. pyrazine<br>4. quinoline,0
+"name these heterocycles<br><img src=""paste-96640fd61a065ad8c53d8091223f4890ef9b533a.jpg"">",1. pyrrole<br>2. furan<br>3. thiophene<br>4. indole,0
+"draw the mechanism for the base catalysed Hantzsch synthesis of pyridines<br>SMs:&nbsp;<img src=""paste-243f6cd8ff209b8017d28eff0d1795199e315b3f.jpg"">&nbsp;(hint: imine formation)","<img src=""paste-b8220e5960477d784397c34f2f3cb8b64ffd03e2.jpg"">",0
+"draw the mechanism for the Conrad-Limpach-Knorr synthesis of quinoline. identify the kinetic and thermodynamic product<br>SMs:&nbsp;<img src=""paste-e981359802d2fe24685809c6cc4690ca1307a119.jpg"">","<img src=""paste-cf84c306b9883e53cac7322131e6847c4d1d508c.jpg"">",0
+"draw the mechanism for the acid catalysed (?) Combes synthesis of quinoline. identify the kinetic and thermodynamic product<br>SMs:&nbsp;<img src=""paste-e6828f7c25f4d7cb61fb6090524adbc63713e11b.jpg"">","<img src=""paste-0a937fdc0511a4e49db986a505e40762a7774546.jpg"">",0
+"draw the mechanism for the acid catalysed Skraup synthesis of quinoline<br>SMs:&nbsp;<img src=""paste-49fd5dd1cbc61924bdae491e6bbe43f283e44fb4.jpg"">","<img src=""paste-0a1973b434691c5bb6d08c0fffc3afa39b9d331d.jpg"">",0
+"draw the mechanism for the acid catalysed Bischler-Napieralski synthesis of isoquinoline<br>SMs:&nbsp;<img src=""paste-7561bdffed28f2b81c8937490cc283c85b2bd64f.jpg"">&nbsp;(two separate routes)","<img src=""paste-2050c0735b3fc0afef80ab6516e6eb30b70023d1.jpg"">",0
+"draw the mechanism for the acid catalysed Paal-Knorr synthesis of pyrrole<br>SMs: ammonia + 1,4-dicarbonyl compound","<img src=""paste-f066958f37b9d1403f85af0f61cec8dd62a794a0.jpg"">",0
+"name these heterocycles<br><img src=""paste-8a680f425c1d4ebc757ad09b40997ff164245cc6.jpg"">",1. imidazole<br>2. oxazole<br>3. thiazole,0
+"draw the mechanism for the acid catalysed synthesis of thiophene<br>SMs: hydrogen sulfide, 1,4-dicarbonyl compound","<img src=""paste-ae1906ecbc3c154222f4a7f8574e7734986b2ce7.jpg"">",0
+"draw the mechanism for the acid catalysed synthesis of furan<br>SMs: 1,4-dicarbonyl compound","<img src=""paste-311b81526222e50b10c4f1e6346db0b9cae2cee0.jpg"">",0
+"draw the mechanism for the acid catalysed synthesis of imidazole<br>SMs: 1,4-dicarbonyl-2-amine compound, ammonia","<img src=""paste-4042091a74441c05dd3f0e373ceed1920a488ef7.jpg"">",0
+what are the starting materials used in the synthesis of pyrazole?,"<img src=""paste-4626efc914aa4b64df04654ebfbb1528be5da1af.jpg""><br>WSq5",0
+identify the four ways in which pyridine can react and how/why it reacts differently to benzene<br>,"<img src=""paste-b15de64597b1a1deb3381dd6563accdd02ee0514.jpg"">",0
+draw the mechanism by which pyridine can act as a nucleophilic catalyst&nbsp;,"<img src=""paste-cf492f899e152a5b1a7bdef9278ab258499186ac.jpg"">",0
+describe/draw the mechanism by which pyridine can undergo S<sub>E</sub>Ar reactions,"just regular, unactivated pyridine --&gt; pyridine is e- poor and has reactive N. makes it hard for electrophiles to act at C. therefore pyridine needs to be turned into an activated species<br><img src=""paste-8e834b00da37b48c9cfa502195978330a47f9289.jpg"">",0
+draw the mechanism by which pyridine undergo S<sub>N</sub>Ar reactions,"pyridine is acting as an imine!<br><img src=""paste-4ce8534fbad829ac5a1896acb7dbe7b3f4e691fe.jpg""><br><img src=""paste-df107ffb80070cd7cb6ef05856ec1b2d5a61b8ad.jpg"">",0
+draw the mechanism by which the side chains of pyridine can react e.g. 1-methylpyridine + BuLi,"<img src=""paste-76fb84751fd40df993c88a731c79a98c9bdf26be.jpg"">",0
+describe/draw the mechanism by which pyridine chemistry is important in the catalytic capabilites of pyridoxal phosphate as a cofactor in racemase enzymes,"pushing of electrons around rings + imine formation allows for L-aa --&gt; D-aa<br><img src=""paste-70022b2e3339b04a2c135d28d1dd221be8c73372.jpg"">",0
+identify the ways in which pyrrole can react and how/why it reacts differently to benzene,"<img src=""paste-f610726548f3628982ab451a74bffa4878148bba.jpg"">",0
+where does pyrrole preferably react in S<sub>E</sub>Ar reactions and why? rationalise with curly arrows,"prefers positions 2/5 over 3/4 (although still does occur)<br><img src=""paste-643ec87597eac4ff8611a512859a333495f18818.jpg"">",0
+draw the vilsmeier reaction to form a substituted pyrrole,"<img src=""paste-417fb3cbad5634c7f4fd37b8d2c420fe4a16160d.jpg"">",0
+why are modified pyrrole reagents used (e.g. -NO2 or -SO3 at position 2) instead of just pyrrole in S<sub>E</sub>Ar?,"<img src=""paste-4ba233bb2cace70d54d3fca035e57832f232cf1b.jpg"">",0
+draw the mechanism by which pyrrole can react through its N,"<img src=""paste-18601a32043e39ec2efac075ca4ef2f74d8aee3d.jpg"">",0
+draw the mechanism by which pyrrole can undergo S<sub>N</sub>Ar,"<img src=""paste-f7a116cf73b564df506a116b3da249dde5eea9db.jpg"">",0
+"draw the mechanism by which pyrrole can undergo decarboxylation<br>(SM:&nbsp;<img src=""paste-4f8bcea5dad1636e14256d20bb080c085ace9a47.jpg"">, H+ catalysed","<img src=""paste-f856d3d8df6a000a3eae14ec3ce6b07c3bf18c80.jpg"">",0
+draw the mechanism by which pyrrole can undergo ring expansion to form pyridine,"<img src=""paste-3e1640910dccc54c2a5dbb8de42101da421fedc4.jpg"">",0
+draw the mechanism by which furan and thiophene can react as dienes,"<img src=""paste-82aef7417d38a1db5fbb0b2caba30f4013bd99fb.jpg"">",0
+"draw the mechanism of cimetidine synthesis<br>SM:&nbsp;<img src=""paste-84aabd242f3e012895daf0ab7d8e55e659099b88.jpg"">, reagents: CH2O, HCl,&nbsp;<img src=""paste-455b92ed30ce9b1d8302319c9c3ac76c0652093e.jpg"">,&nbsp;<img src=""paste-a8babfc2737cd61a2c59d986ee7b5eb4f39fb477.jpg"">","<img src=""paste-aed45c9f60ffe1c83238a97c095fb753e4180ab6.jpg"">",0
+"draw the mechanism of ranitidine synthesis<br>SM:&nbsp;<img src=""paste-776a202f8e00fd38410b30133fdeaf6e79c731fe.jpg"">, reagents: Me2NH, CH2O, HCl,&nbsp;<img src=""paste-455b92ed30ce9b1d8302319c9c3ac76c0652093e.jpg"">,&nbsp;&nbsp;<img src=""paste-346ba80ef4489b1b6cba6b689dc061289f1d16c3.jpg"">","<img src=""paste-ad7e56872b2e7f099e14c469fee785ef704b08ee.jpg"">",0
+list the species that donate 2 electrons to the valence count as&nbsp;<b>anionic ligands</b>,"<img src=""paste-6b709bdbe56f265de5187ac1a634d377dc0d665d.jpg"">",0
+list the species that donate 2 electrons to the valence count as&nbsp;<b>neutral ligands</b>,"<img src=""paste-721076114c1a5d7f0550ea5b00023467c414442b.jpg""><br>these are 'π-acceptor' ligands",0
+draw an alkyldiene ligand and identify its charge (if any) and how many electrons it donates,"<img src=""paste-0d8eb590e9d6946be8b21274a8f6578d703ebab1.jpg""><br><img src=""paste-bc261c9a647b2f13f95ccfdd30b1836c29519ca9.jpg"">",0
+draw the two types of imido ligands and identify their charges (if any) and how many electrons each donates,"<img src=""paste-0b46cb9dfe679ec87f541504f8841d71defc3e9f.jpg"">",0
+identify the charge of benzene and how many electrons it donates as a ligand,charge = neutral<br>donates 6e-,0
+describe the difference between a thermodynamically stable and a kinetically stable complex,"<img src=""paste-760d9e331f931414587befda53c1357d49b6481b.jpg""><br>(<img src=""paste-a874100adca78c17ead33ad2d5984152a72eec2e.jpg"">)",0
+what is β-elimination and how does it occur? draw the mechanism and list the important features of this process,"<img src=""paste-b858f84ebc5998519715410020e3861f84e34ac0.jpg""><br>important:<br>- metal OS does&nbsp;<b>not</b>&nbsp;chnage<br>",0
+describe some structural features you can introduce to increase the kinetic stabilisation of a complex,- block any available coordination states with a a strong donor or bulky ligand&nbsp;<br>- use alkyl ligand that are stable to β-elimination (ie they have no β proton),0
+describe an insertion reaction and draw its mechanism. list the important features of this type of reaction,"eg&nbsp;<img src=""paste-4070bb2ea3a9f15b7f0a7ce2c21fcb361dbc8fa4.jpg""><br>- commonly happens in complexes that have unsaturated π-bonded ligands eg CO, alkenes<br>- reverse is β elimination<br>HOWEVER! studies have found using isotope labelling that insertion reactions occur via an&nbsp;<b>intramolecular migration reaction<br></b><img src=""paste-2720b573b2801b6c6f8ca81f267659bb44a87baf.jpg""><br>- ligand that moves (Me above) moves to a π-acceptor unsaturated electrophile ligand&nbsp;<br>- migration step is reversible<br>- if ligands are chiral, configuration is consevred<br>- no change in OS",0
+describe an oxidative addition reaction and draw its general mechanism. list the important features of this type of reaction,"<img src=""paste-67ec58d29f009fdaecdb5d80c2d75c82ba18b5e3.jpg""><br>- change in OS and coordination number of metal<br>- oxidative addition is easy if metal is coordinatively unsatured &amp; has an accessible oxidation state<br>-&nbsp;<img src=""paste-2b6a22c974ca6bf0c11251f42ea044022ffbec94.jpg"">",0
+describe in detail the two main mechanisms of oxidative addition reactions&nbsp;,"1.&nbsp;<img src=""paste-1f381498813ab64b9f087d310982f76afe63e403.jpg"">the ligands are cis once added to the metal<br>2.&nbsp;<img src=""paste-583a427d87c7ee4955fac65ebc5c273168b6ffde.jpg"">&nbsp;ligands are most often trans once added to the metal",0
+describe the reductive elimination reaction and draw its general mechanism. identify an important feature of this reaction&nbsp;,"<img src=""paste-78ff0b49a96e34f7ed2c1d369e773818a9c26903.jpg""><br>- change in metal OS (decrease OS)<br>- usually occurs in octahedral complexes (large coordination number)",0
+describe how alkenes can bond to a metal through their double bond,"alkene bonds via LMCT d &lt;-- π<br>and MLCT π* &lt;-- d&nbsp; helps to stabilise the bond ""back bonding""<br><img src=""paste-e7a22a3f426d9257ab751c23f0d3fc609e15626c.jpg"">",0
+describe the two consequences of back bonding into the alkene π* orbitals,"<img src=""paste-92645b188f0a0360c845172027ea97a38fa3c5c0.jpg"">",0
+identify the factors that contribute to the extent of back bonding that occurs within a complex,"<img src=""paste-7f5a18ab34abd0a888a3481c369d474b3d13d4cc.jpg"">",0
+describe the steps involved in the catalytic cycle associated with alkene hydrogenation using Wilkinson's catalyst,"<img src=""paste-dc919a2ae6fbce077988bd07e2ee0950460fa1a5.jpg"">",0
+identify the 5 main type of alkene metathesis reactions,<ol><li>cross metathesis (CM)</li><li>ring-opening metathesis (ROM)</li><li>ring-closing metathesis (RCM)</li><li>ring-opening metathesis polymerisation (ROMP)</li><li>aclycic diene metathesis (ADMET)</li></ol>,0
+describe the features of a Fisher catalyst,"- if metal is Ru then its called ""Grubbs"" catalyst<br><img src=""paste-10fd31983831b49e1db21add54693efefc333b37.jpg"">",0
+describe the features of a Schrock catalyst,"<img src=""paste-89ab8f688289ff9f8d6c80c53e7e627dd6bb7e3d.jpg"">",0
+describe the differences between Fischer carbenes and Shrock alkylidine,"Fischer = σ donor, π acceptor (MLCT)<br>Shrock = σ donor, π donor (LMCT)",0
+"draw the mechanism of this ring closing metathesis reaction:<br><img src=""paste-bfd30072d0130a144d1b1fe119dcd747b53470d8.jpg"">","1.&nbsp;<img src=""paste-e0cea949211dfa543238080f1027904e87defd3b.jpg""><br>2.&nbsp;<img src=""paste-d687daa8a914b8295503c9b93690037b9a9aa1d2.jpg""><br>3.&nbsp;<img src=""paste-706167cd57b3fc2d53831428ef328ad204b14a76.jpg""><br>this cycle can happen again with the final catalyst in step (3) and just goes again",0
+What are the key differences between the three generations of Grubbs' catalysts and the Grubbs-Hoveyda modification?,"<li><div><strong>1st Generation Grubbs Catalyst:</strong></div>
+<ul>
+<li>
+<div>Ruthenium center with two <strong>phosphine ligands</strong></div>
+</li>
+<li>
+<div>Moderate activity and tolerance to functional groups</div>
+</li>
+</ul>
+</li>
+<li>
+<div><strong>2nd Generation:</strong></div>
+<ul>
+<li>
+<div>Replaces one phosphine with an <strong>N-heterocyclic carbene (NHC)</strong></div>
+</li>
+<li>
+<div>Increased activity and stability</div>
+</li>
+</ul>
+</li>
+<li>
+<div><strong>3rd Generation:</strong></div>
+<ul>
+<li>
+<div>Features a <strong>labile pyridine ligand</strong>, enhancing <strong>initiation speed</strong></div>
+</li>
+<li>
+<div>Often used for fast reactions and under mild conditions</div>
+</li>
+</ul>
+</li>
+<li>
+<div><strong>Grubbs-Hoveyda Catalyst:</strong></div>
+<ul>
+<li>
+<div>A variant of 2nd generation with a <strong>chelated benzylidene ether ligand</strong></div>
+</li>
+<li>
+<div><strong>Increased stability</strong> and <strong>longer shelf life</strong></div>
+</li>
+<li>
+<div>Common in <strong>ring-closing metathesis</strong> and <strong>cross-metathesi</strong></div></li></ul></li>",0
+describe the dissociative mechanism of metal complexes. draw the energy diagram,"<img src=""paste-a0577094963d0c23b5469552d3f01583db112400.jpg"">",0
+discuss the stereochemistry of the dissociative mechanism,"if 5 membered intermediate stays square pyramid then stereochemistry is maintained but often will relax to trigonal bipyramidal then 3 spots that Y can approach so stereochemistry is not maintained<br><img src=""paste-1d3375c6f93d7a5070e3eccce94e684d1396ba4d.jpg"">",0
+describe the associative mechanism of metal complexes and draw the energy diagram,"<img src=""paste-8fa108f18134fe280ade164ea691b6673b22c5f0.jpg""><br>only happens in octahedral complexes if the metal is large and incoming ligand is realtively small e.g. hydride",0
+discuss the stereochemistry of the associative mechanism,"<img src=""paste-d9afe714caf5e364f761a61862c8ce0878048b40.jpg""><br><img src=""paste-c80b6cc0457431a44b4f318c4b33e378c0c4ee4b.jpg"">",0
+describe the two types of interchange mechanism undegone by metal complexes. draw the energy diagrams,"<img src=""paste-16fb139ac6734c8f46bd1545aa29ef8c8873968a.jpg"">",0
+what are the three important classes of substitution reactions undergone by octahedral complexes?,1. aqua (H2O) ligand exchange<br>2. anation (replacement of H2O by an anion)<br>3. base hydrolysis (replacement of a ligand by OH-),0
+describe base hydrolysis of a metal complex. explain the Garrick Dissociative-Conjugate Base mechanism (chloropentaamine cobalt (III) + OH-),"<img src=""paste-86e954962e62e581fe97f98e635faec471f2105f.jpg""><br><img src=""paste-68817fd6405e1529875b9beb2eaa9f9ed1f642f0.jpg""><br>- Rate law experiments revealed its 2nd order but points to be a dissociative mechanism<br><img src=""paste-f19fd511706de1f7a2b73d8c15e5c5da6ac2107c.jpg"">",0
+describe the racemisation of chiral octahedral complexes,"tris(chelate) complexes are chiral e.g. [Cu(en)3] (instead of S and R you have delta and lamda)<br>racemisation is intramolecular and usually faster than ligand exhcnage<br>method 1: involves one end of ligand dissociating then reattaching at another coordination site either via a square pyramidal or trigonal bipyramidal intermediate.<br><img src=""paste-06cbae446f70b6a9fb22e38bcc30c8794cfc2b5c.jpg""><br>method 2:&nbsp;<img src=""paste-c395adb718f7ead7632113610cb919f210b497ef.jpg"">",0
+describe the difference between the trans effect and trans influence,"<img src=""paste-f7e98d3f1111737e403c43c3b244b71a3ab14f38.jpg"">",0
+what makes a ligand exhibit a strong trans effect and what is the consequence of the trans effect?,"<img src=""paste-42f972f74076a10a35357cc30fa8ae17819609b8.jpg"">",0
+describe the trans directing series,"<img src=""paste-aa1b7d29674435a06d52704e2a1ab2a625bf5b58.jpg""><br>mostly just know that I- &gt; Cl- &gt;NH3 (relevant to synthesis of cisplatin)",0
+what is a hydroformylation process?,"<img src=""paste-9020a101385199a04b75caad8d200f1fb05eb0f0.jpg""><br><img src=""paste-0fded467f2626121b77d717aa52c92385c3b833d.jpg""><br>all use a Co (I) or Ru (I) catalyst",0
+describe the steps in the Union Carbide hydroformylation process,"<img src=""paste-9213b5b1e55815298cbdce90b1223955fb5a4602.jpg"">",0
+describe the steps in the Monsanto acetic acid formation process,"methanol --&gt; acetic acid<br><img src=""paste-6bdf264fe6def4f72eea3a479c9134d144b5e160.jpg"">",0
+describe the steps in the Tennessee-Eastman acetic anhydride formation process,"<img src=""paste-8e4192bedce465c62ff364df2102e2d429ce9bbc.jpg"">",0
